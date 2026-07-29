@@ -20,23 +20,24 @@ Understand feature impact Improve trust in AI predictions Support explainable cr
 
 This project is an end-to-end Machine Learning based Credit Risk Prediction System developed using Python, XGBoost, SHAP Explainability, and Streamlit.
 
-The application predicts whether a customer is likely to be a:
+The model classifies each applicant into one of the following categories:
 
-Good Credit Customer
-Bad Credit Customer
-based on customer demographic, financial, and loan-related information.
+- ✅ **Good Credit Customer**
+- ❌ **Bad Credit Customer**
+
 
 The project also includes model explainability using SHAP values, allowing users to understand which features contribute most to prediction outcomes.
 
 🚀 Live Features
-✅ Credit Risk Prediction
-✅ Interactive Streamlit Dashboard
-✅ SHAP Explainability
-✅ Feature Importance Visualization
-✅ Risk Probability Gauge
-✅ Download Prediction Results
-✅ End-to-End ML Workflow
-✅ Business Insights Section
+
+- ✅ Credit Risk Prediction
+- ✅ Interactive Streamlit Dashboard
+- ✅ SHAP Explainability
+- ✅ Feature Importance Visualization
+- ✅ Risk Probability Gauge
+- ✅ Download Prediction Results
+- ✅ End-to-End ML Workflow
+- ✅ Business Insights Section
 
 🧠 Machine Learning Workflow
 The project follows a complete machine learning lifecycle:
