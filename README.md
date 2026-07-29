@@ -63,7 +63,7 @@ The following models were trained and evaluated:
 
 XGBoost was selected as the final production model based on superior performance.
 
-📈#  Evaluation Metrics
+📈# Evaluation Metrics
 The project includes:
 
 - Accuracy
@@ -75,6 +75,7 @@ The project includes:
 - SHAP Explainability
 
 🛠️ # Tech Stack
+
 - Python
 - Pandas
 - NumPy
