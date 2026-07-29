@@ -1,7 +1,7 @@
 # Credit-Risk-CR-Modeling-Project
 
 
- ## Business Problem
+ # Business Problem
 
 Financial institutions face significant losses due to loan defaults and poor credit decisions.
 
@@ -16,7 +16,7 @@ This helps:
 Understand feature impact Improve trust in AI predictions Support explainable credit decisions
 
 
-📌 ## Project Overview Live Web Application
+📌 # Project Overview Live Web Application
 
 This project is an end-to-end Machine Learning based Credit Risk Prediction System developed using Python, XGBoost, SHAP Explainability, and Streamlit.
 
@@ -28,7 +28,7 @@ The model classifies each applicant into one of the following categories:
 
 The project also includes model explainability using SHAP values, allowing users to understand which features contribute most to prediction outcomes.
 
-🚀##  Live Features
+🚀# Live Features
 
 - ✅ Credit Risk Prediction
 - ✅ Interactive Streamlit Dashboard
@@ -42,7 +42,7 @@ The project also includes model explainability using SHAP values, allowing users
 🧠 Machine Learning Workflow
 The project follows a complete machine learning lifecycle:
 
-## Data Collection
+# Data Collection
 
 - Exploratory Data Analysis (EDA)
 - Data Preprocessing
@@ -52,7 +52,7 @@ The project follows a complete machine learning lifecycle:
 - Explainable AI (SHAP)
 - Streamlit Deployment
 
-📊 Models Used
+📊 # Models Used
 The following models were trained and evaluated:
 
 | Model | Accuracy | ROC-AUC |
@@ -63,7 +63,7 @@ The following models were trained and evaluated:
 
 XGBoost was selected as the final production model based on superior performance.
 
-📈##  Evaluation Metrics
+📈#  Evaluation Metrics
 The project includes:
 
 - Accuracy
@@ -74,7 +74,7 @@ The project includes:
 - Feature Importance
 - SHAP Explainability
 
-🛠️ ## Tech Stack
+🛠️ # Tech Stack
 - Python
 - Pandas
 - NumPy
@@ -85,7 +85,7 @@ The project includes:
 - Plotly
 - Joblib
 
-📂 ## Project Structure
+📂 # Project Structure
 
 Credit-Risk(CR)-Modeling-Project/ │ ├── app/ │ └── streamlit_app.py │ ├── data/ │ ├── raw/ │ └── processed/ │ ├── models/ │ ├── logistic_regression.pkl │ ├── random_forest.pkl │ ├── xgboost_model.pkl │ └── scaler.pkl │ ├── notebooks/ │ ├── 01_EDA.ipynb │ ├── 02_Preprocessing.ipynb │ ├── 03_Modeling.ipynb │ └── 04_Evaluation.ipynb │ ├── requirements.txt └── README.md
 
