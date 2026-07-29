@@ -1,5 +1,12 @@
 # Credit-Risk-CR-Modeling-Project
 
+# Credit Risk Scorecard Development
+
+A credit risk scorecard is a predictive model used by financial institutions to evaluate the creditworthiness of loan applicants. It supports consistent and data-driven lending decisions by estimating the likelihood that a customer will repay their debt. Credit scorecards are widely applied in credit approval, portfolio monitoring, risk management, and the estimation of expected credit losses.
+
+This project uses a historical credit dataset containing customer demographic, financial, and loan-related information, together with each customer's repayment outcome. The dataset includes variables such as age, income, savings and checking account status, loan amount, loan duration, employment status, and other characteristics that may influence credit risk.
+
+Machine learning classification models, including **Logistic Regression**, **Random Forest**, and **XGBoost**, are developed and evaluated to classify customers as either **good** or **bad** credit risks. Model performance is assessed using metrics such as Accuracy, AUC, Gini Coefficient, and the KS Statistic. The best-performing model can then be used to score new loan applicants, enabling lenders to make informed credit decisions while managing portfolio risk and reducing the likelihood of defaults.
 
  # Business Problem
 
