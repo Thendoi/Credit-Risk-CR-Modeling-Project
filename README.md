@@ -40,6 +40,7 @@ The project also includes model explainability using SHAP values, allowing users
 - ✅ Business Insights Section
 
 # Machine Learning Workflow
+
 The project follows a complete machine learning lifecycle:
 
 # Data Collection
