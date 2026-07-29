@@ -53,10 +53,11 @@ Streamlit Deployment
 📊 Models Used
 The following models were trained and evaluated:
 
-Model	Accuracy	ROC-AUC
-Logistic Regression	92.5%	0.98
-Random Forest	95.5%	0.99
-XGBoost	97.0%	0.99
+| Model | Accuracy | ROC-AUC |
+|--------|---------:|--------:|
+| Logistic Regression | 92.5% | 0.98 |
+| Random Forest | 95.5% | 0.99 |
+| XGBoost | **97.0%** | **0.99** |
 
 XGBoost was selected as the final production model based on superior performance.
 
