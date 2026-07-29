@@ -28,7 +28,7 @@ The model classifies each applicant into one of the following categories:
 
 The project also includes model explainability using SHAP values, allowing users to understand which features contribute most to prediction outcomes.
 
-🚀#Live Features
+# Live Features
 
 - ✅ Credit Risk Prediction
 - ✅ Interactive Streamlit Dashboard
@@ -39,7 +39,7 @@ The project also includes model explainability using SHAP values, allowing users
 - ✅ End-to-End ML Workflow
 - ✅ Business Insights Section
 
-🧠 Machine Learning Workflow
+# Machine Learning Workflow
 The project follows a complete machine learning lifecycle:
 
 # Data Collection
@@ -52,7 +52,7 @@ The project follows a complete machine learning lifecycle:
 - Explainable AI (SHAP)
 - Streamlit Deployment
 
-📊 # Models Used
+# Models Used
 The following models were trained and evaluated:
 
 | Model | Accuracy | ROC-AUC |
@@ -63,7 +63,7 @@ The following models were trained and evaluated:
 
 XGBoost was selected as the final production model based on superior performance.
 
-📈# Evaluation Metrics
+# Evaluation Metrics
 The project includes:
 
 - Accuracy
@@ -74,7 +74,7 @@ The project includes:
 - Feature Importance
 - SHAP Explainability
 
-🛠️ # Tech Stack
+# Tech Stack
 
 - Python
 - Pandas
@@ -86,7 +86,7 @@ The project includes:
 - Plotly
 - Joblib
 
-📂 # Project Structure
+# Project Structure
 
 Credit-Risk(CR)-Modeling-Project/ │ ├── app/ │ └── streamlit_app.py │ ├── data/ │ ├── raw/ │ └── processed/ │ ├── models/ │ ├── logistic_regression.pkl │ ├── random_forest.pkl │ ├── xgboost_model.pkl │ └── scaler.pkl │ ├── notebooks/ │ ├── 01_EDA.ipynb │ ├── 02_Preprocessing.ipynb │ ├── 03_Modeling.ipynb │ └── 04_Evaluation.ipynb │ ├── requirements.txt └── README.md
 
