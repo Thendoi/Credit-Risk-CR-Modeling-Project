@@ -69,7 +69,7 @@ The following models were trained and evaluated:
 | Random Forest | 95.5% | 0.99 |
 | XGBoost | **97.0%** | **0.99** |
 
-XGBoost was selected as the final production model based on superior performance.
+**Random Forest** was selected as the final production model based on superior performance.
 
 # Evaluation Metrics
 The project includes:
