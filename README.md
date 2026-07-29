@@ -16,7 +16,7 @@ This helps:
 Understand feature impact Improve trust in AI predictions Support explainable credit decisions
 
 
-📌 #Project Overview Live Web Application
+# Project Overview Live Web Application
 
 This project is an end-to-end Machine Learning based Credit Risk Prediction System developed using Python, XGBoost, SHAP Explainability, and Streamlit.
 
