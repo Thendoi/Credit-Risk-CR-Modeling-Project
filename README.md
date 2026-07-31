@@ -14,7 +14,7 @@ Financial institutions face significant losses due to loan defaults and poor cre
 
 This project helps:
 
-Identify high-risk customers Improve loan approval decisions Reduce financial risk Support explainable AI decision-making 🔍 SHAP Explainability
+Identify high-risk customers Improve loan approval decisions Reduce financial risk Support explainable AI decision-making  SHAP Explainability
 
 The project integrates SHAP (SHapley Additive exPlanations) to provide transparent model predictions.
 
