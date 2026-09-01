@@ -69,7 +69,7 @@ The following models were trained and evaluated:
 | Random Forest | 42% | 0.43 |
 | XGBoost | 39%* | 0.44 |
 
-**Random Forest** was selected as the final production model based on superior performance.
+**Logistic Regression** was selected as the final production model based on superior performance.
 
 # Evaluation Metrics
 The project includes:
