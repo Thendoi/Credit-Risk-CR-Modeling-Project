@@ -94,6 +94,22 @@ The project includes:
 - Plotly
 - Joblib
 
+# Prediction App 
+
+<img width="2539" height="1041" alt="C1" src="https://github.com/user-attachments/assets/6c5bc05f-d1b0-49d6-bde9-bac1d5726f48" />
+
+<img width="2544" height="1374" alt="C2" src="https://github.com/user-attachments/assets/e3e10d1e-d8ba-43c5-88bc-cecdee2f6698" />
+
+<img width="2551" height="1072" alt="C3" src="https://github.com/user-attachments/assets/b9879778-d602-4499-840c-b3bc3f2be358" />
+
+<img width="1268" height="596" alt="C4" src="https://github.com/user-attachments/assets/3c7fe757-9e24-4753-9aad-9d5460933ed7" />
+
+<img width="2542" height="1267" alt="C6" src="https://github.com/user-attachments/assets/e1885187-4320-49b7-ab3c-0da36f600f0a" />
+
+<img width="914" height="167" alt="C7" src="https://github.com/user-attachments/assets/eb55a784-2162-4c68-91a5-3d243f1fcdca" />
+
+
+
 # Project Structure
 
 Credit-Risk(CR)-Modeling-Project/ │ ├── app/ │ └── streamlit_app.py │ ├── data/ │ ├── raw/ │ └── processed/ │ ├── models/ │ ├── logistic_regression.pkl │ ├── random_forest.pkl │ ├── xgboost_model.pkl │ └── scaler.pkl │ ├── notebooks/ │ ├── 01_EDA.ipynb │ ├── 02_Preprocessing.ipynb │ ├── 03_Modeling.ipynb │ └── 04_Evaluation.ipynb │ ├── requirements.txt └── README.md
