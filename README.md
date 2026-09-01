@@ -65,9 +65,9 @@ The following models were trained and evaluated:
 
 | Model | Accuracy | ROC-AUC |
 |--------|---------:|--------:|
-| Logistic Regression | 42% | 0.50 |
+| Logistic Regression | **42%** | **0.50** |
 | Random Forest | 42% | 0.43 |
-| XGBoost | 39%* | 0.44 |
+| XGBoost | 39% | 0.44 |
 
 **Logistic Regression** was selected as the final production model based on superior performance.
 
