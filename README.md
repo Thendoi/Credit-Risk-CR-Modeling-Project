@@ -1,6 +1,4 @@
-# Credit-Risk-CR-Modeling-Project
-
-# Credit Risk Scorecard Development
+# Credit Risk Scorecard Project
 
 A credit risk scorecard is a predictive model used by financial institutions to evaluate the creditworthiness of loan applicants. It supports consistent and data-driven lending decisions by estimating the likelihood that a customer will repay their debt. Credit scorecards are widely applied in credit approval, portfolio monitoring, risk management, and the estimation of expected credit losses.
 
