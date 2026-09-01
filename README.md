@@ -82,17 +82,6 @@ The project includes:
 - Feature Importance
 - SHAP Explainability
 
-# Tech Stack
-
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- XGBoost
-- SHAP
-- Streamlit
-- Plotly
-- Joblib
 
 # Prediction App 
 
